@@ -7,3 +7,5 @@ variable "Created_by" {}
 variable "Env" {}
 variable "count_vm" {}
 variable "Dept" {}
+variable "min_size" {}
+variable "max_size" {}
