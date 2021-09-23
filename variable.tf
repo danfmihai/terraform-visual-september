@@ -5,4 +5,5 @@ variable "subnet_id" {}
 variable "Name" {}
 variable "Created_by" {}
 variable "Env" {}
-variable "count" {}
+variable "count_vm" {}
+variable "Dept" {}

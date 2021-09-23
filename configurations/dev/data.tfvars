@@ -6,4 +6,4 @@ Name            = "Consul"
 Created_by      = "Mihai"
 Env             = "Dev"
 Dept            = "IT"
-count           = 1
+count_vm        = 1

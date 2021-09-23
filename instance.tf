@@ -4,12 +4,13 @@ resource "aws_instance" "example" {
     key_name = var.key_name
     subnet_id = var.subnet_id
     associate_public_ip_address = true
-    count = var.count
+    count = var.count_vm
 
     tags = {
       Name       = "${var.Name}-${count.index+1}"
       Created_by = var.Created_by
       Env        = var.Env
       Dept       = var.Dept
+      
     }
 }
