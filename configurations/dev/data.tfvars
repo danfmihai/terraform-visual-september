@@ -3,3 +3,7 @@ instance_type   = "t2.micro"
 key_name        = "proxmox"
 subnet_id       = "subnet-0ce444c0a0f021db2"
 Name            = "Consul"
+Created_by      = "Mihai"
+Env             = "Dev"
+Dept            = "IT"
+count           = 1
