@@ -7,5 +7,5 @@ Created_by      = "Mihai"
 Env             = "Dev"
 Dept            = "IT"
 count_vm        = 1
-min_size        = 3
-max_size        = 6
+min_size        = 1
+max_size        = 2
